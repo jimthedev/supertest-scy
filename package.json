@@ -18,8 +18,8 @@
   "license": "BSD",
   "dependencies": {
     "methods": "0.1.0",
-    "supertest": "~0.8.2",
-    "tv4": "~1.0.10"
+    "supertest": "*",
+    "tv4": "*"
   },
   "devDependencies": {
     "mocha": "~1.14.0",
